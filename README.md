@@ -10,6 +10,6 @@ Currently supporting English, Simplified Chinese, and Traditional Chinese, Quant
 ![quantum](https://github.com/user-attachments/assets/ba448ca3-68f5-4423-9416-acd53cf95df3)
 
 
-# Follow our Discord for the latest news
+# Our Community
 
 * [Discord](https://discord.gg/fNuJgwR8)
